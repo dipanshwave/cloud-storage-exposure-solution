@@ -190,7 +190,7 @@ Generate Incident Report
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/dipanshwave/cloud-storage-exposure-solution
 cd cloud-storage-exposure-solution
 ```
 
