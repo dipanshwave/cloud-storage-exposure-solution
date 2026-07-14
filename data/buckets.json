@@ -1,0 +1,26 @@
+[
+    {
+        "name": "customer-documents",
+        "public": false,
+        "owner": "Finance",
+        "region": "ap-south-1"
+    },
+    {
+        "name": "employee-records",
+        "public": false,
+        "owner": "HR",
+        "region": "ap-south-1"
+    },
+    {
+        "name": "project-backups",
+        "public": false,
+        "owner": "Engineering",
+        "region": "us-east-1"
+    },
+    {
+        "name": "marketing-assets",
+        "public": false,
+        "owner": "Marketing",
+        "region": "eu-west-1"
+    }
+]
